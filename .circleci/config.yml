@@ -38,7 +38,7 @@ jobs:
           name: test 
           command: bundle exec rake test
 
- deploy:
+  deploy:
     docker:
       - image: cimg/ruby:2.7
     steps:
