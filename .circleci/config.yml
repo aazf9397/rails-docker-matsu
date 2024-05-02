@@ -1,6 +1,6 @@
 version: 2.1
 orbs:
-  ruby: circleci/ruby@2.1.1
+  ruby: circleci/ruby@1.1.0
   heroku: circleci/heroku@1.2.3
 
 
